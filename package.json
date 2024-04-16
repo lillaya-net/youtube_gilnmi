@@ -9,12 +9,14 @@
     "axios": "^1.6.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
     "react-helmet-async": "^2.0.4",
     "react-icons": "^5.1.0",
     "react-player": "^2.16.0",
-    "react-router-dom": "^6.22.3",
+    
     "react-scripts": "5.0.1",
-    "sass": "^1.69.0",
+    "sass": "^1.75.0",
+    "swipe": "^1.7.7",
     "swiper": "^11.1.1",
     "web-vitals": "^2.1.4"
   },

@@ -13,9 +13,9 @@ import Channel from './pages/Channel'
 import Video from './pages/Video'
 import Search from './pages/Search' 
 import Not from './pages/Not'
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Main from './components/Main';
+import Header from './components/section/Header';
+import Footer from './components/section/Footer';
+import Main from './components/section/Main';
 
 const App = () => {
   return (

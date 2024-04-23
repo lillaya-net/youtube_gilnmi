@@ -1,8 +1,15 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <Main 
+      title="유튜브" 
+      description="웹스토리보이 유뷰브에 오신것을 환영합니다."
+    >
+      Home
+    </Main>
+      
   )
 }
 
